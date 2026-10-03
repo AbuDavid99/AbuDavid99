@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**AbuDavid99/AbuDavid99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Abu David
+## Aspiring Data Analyst
+I'm starting my data analysis journey and building my skills step by step.
+### Skills
+Excel(data cleaning, formulas, pivot tables, charts)
+### Currently learning
+- AI Automation
+### Current Project
+**Cinelytic dataSet**: Analyzing a film dataset to find trends in ratings, genres and revenue
+### Connect with me
+- Email: abudavid99@gmail.com
